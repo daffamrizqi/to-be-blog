@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to Daffa's blog my dude!
 ---
 
